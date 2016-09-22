@@ -1,0 +1,12 @@
+body{ 
+background: url("balloons.jpg") no-repeat center fixed;
+background-size: 75% 75%;
+background-color: red;
+margin: 20%;
+}
+h1{
+font-size: 250%;
+padding: 25px;
+text-align: center;
+color:gold;
+}
